@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[679],{30928:e=>{e.exports=JSON.parse('{"title":"MQ","description":"MQ \u7b14\u8bb0","slug":"/category/mq","permalink":"/docs/category/mq","navigation":{"previous":{"title":"Optional \u7c7b","permalink":"/docs/Java/Optional"},"next":{"title":"RabbitMq","permalink":"/docs/Mq/RabbitMq"}}}')}}]);
