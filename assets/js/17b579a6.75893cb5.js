@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[841],{85640:e=>{e.exports=JSON.parse('{"title":"PHP","description":"Php \u7b14\u8bb0","slug":"/category/php","permalink":"/docs/category/php","navigation":{"next":{"title":"PHP \u5b66\u4e60\u8bb0\u5f55","permalink":"/docs/Php/"}}}')}}]);
